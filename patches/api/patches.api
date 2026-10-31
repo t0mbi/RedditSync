@@ -1,0 +1,8 @@
+public final class app/revanced/patches/redditsync/FixGalleriesPatchKt {
+	public static final fun getFixGalleriesPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
+public final class app/revanced/patches/redditsync/FixLoadMoreCommentsPatchKt {
+	public static final fun getFixLoadMoreCommentsPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
